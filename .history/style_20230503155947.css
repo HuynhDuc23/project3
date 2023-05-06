@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    width: 100%;
+    background-image: linear-gradient(to right bottom , rgba(176, 55, 55, 0),rgba(0, 0, 0, 0.286)),url("https://plus.unsplash.com/premium_photo-1666997726532-33f671ca24c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=821&q=80");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 109vh;
+}
+.navbar 
+{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+.icon {
+    width: 200px;
+    float: left;
+    height: 70px;
+  
+}
+.logo {
+    color: orange;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+}
